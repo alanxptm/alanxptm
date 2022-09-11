@@ -1,4 +1,4 @@
-<center><img src="https://raw.githubusercontent.com/alanxptm/alanxptm/main/img/keeb.png"/></center>
+<p align="center"><img src="https://raw.githubusercontent.com/alanxptm/alanxptm/main/img/keeb.png"/></center>
 
 **Hello there!** :metal:😎
 
@@ -9,7 +9,7 @@ I am a MAC (*Master in Applied Computing*) post-degree student about to graduate
 - Working on: My master's thesis
 - Listening: <a href="https://open.spotify.com/playlist/37i9dQZF1DX6XceWZP1znY?si=4794fec7a0fe42eb">Anime Hits</a>
 
-<table>
+<table align="center">
   <tbody>
     <tr>
       <td align="center" colspan=2>Main Interest</td>
@@ -26,7 +26,7 @@ I am a MAC (*Master in Applied Computing*) post-degree student about to graduate
   </tbody>
 </table>
 
-<table>
+<table align="center">
   <tbody>
     <tr>
       <td align="center">Distro</td>
