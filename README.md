@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/alanxptm/alanxptm/main/img/keeb.png"/>
+<img width="100%" src="https://raw.githubusercontent.com/alanxptm/alanxptm/main/img/keeb.png"/>
 
 **Hello there!** :metal:😎
 
