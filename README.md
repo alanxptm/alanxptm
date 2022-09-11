@@ -1,70 +1,40 @@
-<p align="center"><img src="https://raw.githubusercontent.com/alanxptm/alanxptm/main/img/keeb.png"/></center>
+hello there
 
-**Hello there!** :metal:😎
+<svg fill="none" viewBox="0 0 300 120" width="300" height="120" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
 
-My name is Alan and I am a master's student at <a href="http://www.lania.mx">LANIA</a> majoring in *Applied Computing*. I have an interest in back-end development and I enjoy learning and sharing my knowledge. My academic experience has been mostly in *Java* and some *Python*, but I want to establish my career in *C#* technologies, full web stack would be something I would like to work on too.
+      <style>
+        .tags {
+          display: flex;
+          flex-wrap: wrap;
+          height: 100%;
+          width: 100%;
+        }
+        .tag {
+          background-color: #E3FFFF;
+          border-radius: 0.25em;
+          color: #0ca4a5;
+          border: 1px solid #0ca4a5;
+          display: inline-block;
+          font-size: 0.75em;
+          line-height: 2em;
+          margin: 0.125em;
+          padding: 0 0.5em;
+          text-decoration: none;
+          font-family: sans-serif;
+        }
+      </style>
 
-In my free time I usually enjoy dork and social activities.
-
-**Recently:**
-- Learning: C#, Docker, Git
-- Working on: My master's thesis
-- Listening: <a href="https://open.spotify.com/playlist/37i9dQZF1DX6XceWZP1znY?si=4794fec7a0fe42eb">Anime Hits</a>
-
-<table align="center">
-  <tbody>
-    <tr>
-      <td align="center" colspan=2>Main Interest</td>
-      <td align="center" colspan=4>Experience</td>
-    </tr>
-    <tr>
-      <td align="center"><img height=36 wdth=36 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" /></td>
-      <td align="center"><img height=36 wdth=36 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elixir/elixir-original.svg" /></td>
-      <td align="center"><img height=36 wdth=36 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /></td>
-      <td align="center"><img height=36 wdth=36 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></td>
-      <td align="center"><img height=36 wdth=36 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /></td>
-      <td align="center"><img height=36 wdth=36 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /></td>
-    </tr>
-  </tbody>
-</table>
-
-<table align="center">
-  <tbody>
-    <tr>
-      <td align="center">Distro</td>
-      <td align="center" colspan=5>Tools</td>
-    </tr>
-    <tr>
-      <td align="center"><img height=36 wdth=36 src="https://raw.githubusercontent.com/alanxptm/alanxptm/main/img/manjaro.png"/></td>
-      <td align="center"><img height=36 wdth=36 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" /></td>
-      <td align="center"><img height=36 wdth=36 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /></td>
-      <td align="center"><img height=36 wdth=36 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" /></td>
-      <td align="center"><img height=36 wdth=36 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" /></td>
-      <td align="center"><img height=36 wdth=36 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /></td>
-    </tr>
-  </tbody>
-</table>
-
-<details>
-    <summary><b>About the keeb</b></summary><br/>
-    <table>
-      <tbody>
-        <tr>
-          <td align="center">PCB Plate</td>
-          <td align="center" colspan=3>Customization</td>
-          <td align="center" colspan=3>Keycaps [cherry]</td>
-        </tr>
-        <tr>
-          <td align="center">GK68xs</td>
-          <td align="center">PCB Stabilizers Pad</td>
-          <td align="center">Switch Films</td>
-          <td align="center">Switch Pad Films</td>
-          <td align="center">Evil Dolche [clone]</td>
-          <td align="center">PSX</td>
-          <td align="center">Spacebar</td>
-        </tr>
-      </tbody>
-    </table>
-    Some pictures about the build process:
-    <a href="https://www.instagram.com/p/CSU4XJqrI3Q/?utm_source=ig_web_button_share_sheet">Tools + Lube</a> / <a href="https://www.instagram.com/p/CSkIAzRLg4G/?utm_source=ig_web_button_share_sheet">PCB + Case</a> / <a href="https://www.instagram.com/p/CcODNaVLGOg/?utm_source=ig_web_button_share_sheet">Switch Pads</a>
-</details>
+      <div class="tags">
+        <div class="tag">C#</div>
+        <div class="tag">Java</div>
+        <div class="tag">Python</div>
+      </div>
+      <div class="tags">
+        <div class="tag">Docker</div>
+        <div class="tag">VSCode</div>
+      </div>
+    </div>
+  </foreignObject>
+</svg>
