@@ -2,9 +2,11 @@
 
 **Hello there!** :metal:😎
 
-I am a MAC (*Master in Applied Computing*) post-degree student about to graduate. I have an interest in backend development and I enjoy learning and sharing knowledge.
+My name is Alan and I am a master's student at <a href="http://www.lania.mx">LANIA</a> majoring in *Applied Computing*. I have an interest in back-end development and I enjoy learning and sharing my knowledge. My academic experience has been mostly in *Java* and some *Python*, but I want to establish my career in *C#* technologies, full web stack would be something I would like to work on too.
 
-**Recently**
+In my free time I usually enjoy dork and social activities.
+
+**Recently:**
 - Learning: C#, Docker, Git
 - Working on: My master's thesis
 - Listening: <a href="https://open.spotify.com/playlist/37i9dQZF1DX6XceWZP1znY?si=4794fec7a0fe42eb">Anime Hits</a>
