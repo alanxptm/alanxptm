@@ -9,15 +9,14 @@
   </tbody>
 </table>
 
-My name is Alan and I am a master's student majoring in *Applied Computing*. I have an interest in back-end development and I enjoy learning and sharing my knowledge. My academic experience has been mostly in *Java* and some *Python*, but I want to focus my career in *C#*.
+My name is Alan and I am a master's student majoring in *Applied Computing*. I have an interest in back-end development and I enjoy learning and sharing my knowledge. My academic experience has been mostly in *Java* and some *Python*, but I would like to focus my career in *C#*.
 
 In my free time I usually enjoy dork (boardgames, books, movies, vgs) and social (I love to talk, street photography) activities.
 
 **Recently I've been:**
-- Learning: C#, Docker, Git
+- Learning: C#, Docker, Git, Spring
 - Working on: My master's thesis
-- Listening: <a href="https://open.spotify.com/playlist/37i9dQZF1DX6XceWZP1znY?si=4794fec7a0fe42eb">Anime Hits</a>
-- Watching: Stranger Things & The Sandman
+- Listening: <a href="https://open.spotify.com/playlist/6NeKXYIKjDVCqfCIg9l9J8?si=e7d1f29321eb47f7">Cyberpunk: Edgerunners OST</a>
 
 <table align="center">
   <tbody>
@@ -73,6 +72,6 @@ In my free time I usually enjoy dork (boardgames, books, movies, vgs) and social
         </tr>
       </tbody>
     </table>
-    Some pictures about the build process:
+    Build process:
     <a href="https://www.instagram.com/p/CSU4XJqrI3Q/?utm_source=ig_web_button_share_sheet">Tools + Lube</a> / <a href="https://www.instagram.com/p/CSkIAzRLg4G/?utm_source=ig_web_button_share_sheet">PCB + Case</a> / <a href="https://www.instagram.com/p/CcODNaVLGOg/?utm_source=ig_web_button_share_sheet">Switch Pads</a>
 </details>
