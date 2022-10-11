@@ -44,7 +44,7 @@ In my free time I usually enjoy dork (boardgames, books, movies, vgs) and social
     <tr>
       <td align="center"><img height=36 wdth=36 src="https://raw.githubusercontent.com/alanxptm/alanxptm/main/img/manjaro.png"/></td>
       <td align="center"><img height=36 wdth=36 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" /></td>
-      <td align="center"><img height=36 wdth=36 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /></td>
+      <td align="center"><img height=36 wdth=36 src="/img/gh.png" /></td>
       <td align="center"><img height=36 wdth=36 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" /></td>
       <td align="center"><img height=36 wdth=36 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" /></td>
       <td align="center"><img height=36 wdth=36 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /></td>
