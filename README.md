@@ -1,77 +1,93 @@
-<p align="center"><img src="https://raw.githubusercontent.com/alanxptm/alanxptm/main/img/keeb.png"/></center>
+<!--[![Header](https://raw.githubusercontent.com/alanxptm/alanxptm/main/img/header.png "Header")](url)-->
 
-<table align="center" border="0">
+<table align="center" border="0" style="width:50%">
   <tbody>
+    <tr>
+      <td align="center" colspan=2>Hello there!</td>
+    </tr>
     <tr valign=middle>
-      <td><b>Hello there!</b></td>
-      <td><img height=48px src="https://raw.githubusercontent.com/alanxptm/alanxptm/main/img/cat.png"/></td>
+      <td><img height=150px src="https://raw.githubusercontent.com/alanxptm/alanxptm/main/img/8020-kittyswag.png" /></td>
+      <td>
+        <i>TL;DR</i><br />
+        - Software Developer [MAC]<br/>
+        - C# / Python<br/>
+        - Working on my portfolio<br/>
+      </td>
+    </tr>
+    <tr>
+      <td align="justify" colspan=2>
+        <p>Storytime:</p>
+        <p>
+          My name is Alan and I am a software developer with a <b><i>Master's in Applied Computing</i></b> degree<br/>
+          that was divided in: AI, Distributed and Obicuous Systems, IT, and Software Engineering.
+        </p>
+        <p>
+          I am aware of the importance of good design and efficient coding and how they relate to the<br/>
+          performance and long-term maintainability of a project.
+        </p>
+        <p>
+          I enjoy to learn (through diverse sources and peers), share my knowledge, and motivate others<br/>
+          to keep improving their skills.
+        </p>
+        <p>
+          While my academic experience was mostly in <i>Java</i> and <i>Python</i>, my college's thesis project<br/>
+          was coded in <i>C#</i> (<a href="https://godotengine.org/">Godot Engine</a>)
+          and master's in <i>C++</i> (<a href="https://omnetpp.org/">OMNeT++</a>).
+          Taking these into account,<br/>
+          I would love to focus my career in <b><i>C#</i></b> and <b><i>Python</i></b>, with focus on Full-stack and Back-end<br/>
+          development.
+        </p>
+        <p>
+          In my leisure time I usually enjoy from multiple media (books, anime, movies, vgs) and social<br/>
+          activities (board games, hangouts, street photography).
+        </p>
+        <p>
+          Happy coding!
+        </p>
+      </td>
     </tr>
   </tbody>
 </table>
-
-My name is Alan and I am a master's student majoring in *Applied Computing*. My main interest relies in full-stack development, I enjoy learning and sharing my knowledge, and motivating others to keep studying. My academic experience was mostly in *Java* and *Python*, while my college's thesis project was in *C#* and master's in *C++*. From all, I would like to focus my career in *C#* / *Python*.
-
-In my free time I usually enjoy dork (boardgames, books, movies, vgs) and social (talk, museums, street photography) activities.
-
-**Recently I've been:**
-- Learning: More C# and Python
-- Working on: Getting ready for my master's degree exam
-- Listening: <a href="https://open.spotify.com/playlist/6NeKXYIKjDVCqfCIg9l9J8?si=e7d1f29321eb47f7">Cyberpunk: Edgerunners OST</a>
 
 <table align="center">
   <tbody>
     <tr>
-      <td align="center" colspan=2>Main Interest</td>
-      <td align="center" colspan=3>Experience</td>
+      <td align="center" colspan=4>Code</td>
+      <!--<td align="center">DB</td>-->
+      <td align="center" colspan=2>Tool</td>
     </tr>
     <tr>
-      <td align="center"><img height=36 wdth=36 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" /></td>
-      <td align="center"><img height=36 wdth=36 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></td>
-      <!--<td align="center"><img height=36 wdth=36 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elixir/elixir-original.svg" /></td>-->
-      <td align="center"><img height=36 wdth=36 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /></td>
-      <td align="center"><img height=36 wdth=36 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /></td>
-      <td align="center"><img height=36 wdth=36 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /></td>
+      <td align="center"><img height=36 wdth=36 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" title="C#" /></td>
+      <!--<td align="center"><img height=36 wdth=36 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elixir/elixir-original.svg" title="Elixir" /></td>
+      <td align="center"><img height=36 wdth=36 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" /></td>-->
+      <td align="center"><img height=36 wdth=36 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" /></td>
+      <td align="center"><img height=36 wdth=36 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML" /></td>
+      <td align="center"><img height=36 wdth=36 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" /></td>
+      <!--<td align="center"><img height=36 wdth=36 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="PostgreSQL" /></td>-->
+      <td align="center"><img height=36 wdth=36 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" title="Pycharm/Rider" /></td>
+      <td align="center"><img height=36 wdth=36 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VS Code" /></td>
+      <!--<td align="center"><img height=36 wdth=36 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker" /></td>-->
     </tr>
   </tbody>
 </table>
 
-<table align="center">
-  <tbody>
-    <tr>
-      <td align="center">Distro</td>
-      <td align="center" colspan=4>Tool</td>
-    </tr>
-    <tr>
-      <td align="center"><img height=36 wdth=36 src="https://raw.githubusercontent.com/alanxptm/alanxptm/main/img/manjaro.png"/></td>
-      <!--<td align="center"><img height=36 wdth=36 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" /></td>-->
-      <td align="center"><img height=36 wdth=36 src="/img/gh.png" /></td>
-      <td align="center"><img height=36 wdth=36 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" /></td>
-      <td align="center"><img height=36 wdth=36 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" /></td>
-      <td align="center"><img height=36 wdth=36 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /></td>
-    </tr>
-  </tbody>
-</table>
 
+
+<!--<img src="https://github-readme-stats.vercel.app/api/top-langs?username=alanxptm&layout=compact&theme=nord"/>-->
+<!--<img src="https://github-readme-stats.vercel.app/api?username=alanxptm&show_icons=true&hide=stars,prs,issues,contribs&hide_title=true&theme=nord"/>-->
+
+<!--
 <details>
-    <summary><b>About the keeb</b></summary><br/>
+    <summary><b></b></summary><br/>
     <table>
       <tbody>
         <tr>
-          <td align="center">PCB Plate</td>
-          <td align="center" colspan=3>Customization</td>
-          <td align="center" colspan=3>Keycaps [cherry]</td>
+          <td align="center"></td>
         </tr>
         <tr>
-          <td align="center">GK68xs</td>
-          <td align="center">PCB Stabilizers Pad</td>
-          <td align="center">Switch Films</td>
-          <td align="center">Switch Pad Films</td>
-          <td align="center">Evil Dolche [clone]</td>
-          <td align="center">PSX</td>
-          <td align="center">Spacebar</td>
+          <td align="center"></td>
         </tr>
       </tbody>
     </table>
-    Build process:
-    <a href="https://www.instagram.com/p/CSU4XJqrI3Q/?utm_source=ig_web_button_share_sheet">Tools + Lube</a> / <a href="https://www.instagram.com/p/CSkIAzRLg4G/?utm_source=ig_web_button_share_sheet">PCB + Case</a> / <a href="https://www.instagram.com/p/CcODNaVLGOg/?utm_source=ig_web_button_share_sheet">Switch Pads</a>
 </details>
+-->
