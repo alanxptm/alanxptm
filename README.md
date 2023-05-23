@@ -30,23 +30,23 @@
           degree (grad. 2023).
         </p>
         <p>
-          I am aware of the importance of good design and efficient coding and how they<br/>
+          I am aware of the importance of good design and efficient coding and how they 
           relate to the performance and long-term maintainability of a project.
         </p>
         <p>
-          I enjoy to constantly explore learning (through a diversity of sources and peers),<br/>
+          I enjoy to constantly explore learning (through a diversity of sources and peers), 
           share my knowledge, and motivate others to keep improving their skills.
         </p>
         <p>
-          While my academic experience was coding mostly in <i>Java</i> and <i>Python</i>, my college's<br/>
+          While my academic experience was coding mostly in <i>Java</i> and <i>Python</i>, my college's 
           thesis project was done in <i>C#</i> (<a href="https://godotengine.org/">Godot Engine</a>)
-          and master's in <i>C++</i> (<a href="https://omnetpp.org/">OMNeT++</a>).<br/>
-          Considering these, I would love to lead my career in <b><i>C#</i></b> and <b><i>Python</i></b>, with focus on<br/>
+          and master's in <i>C++</i> (<a href="https://omnetpp.org/">OMNeT++</a>). 
+          Considering these, I would love to lead my career in <b><i>C#</i></b> and <b><i>Python</i></b>, with focus on 
           Full-stack and Back-end development.
         </p>
         <p>
-          In my leisure time, I surprisingly enjoy non-tech but social activities (I know right)<br/>
-          like playing board games, hangouts with family/friends, or street photography.<br/>
+          In my leisure time, I surprisingly enjoy non-tech but social activities (I know right) 
+          like playing board games, hangouts with family/friends, or street photography. 
           And chill out with some storytelling from books, movies, or videogames, as well.
         </p>
         <p>
