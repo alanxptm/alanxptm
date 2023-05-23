@@ -53,8 +53,8 @@
         </p>
         <p>
           In my leisure time, I surprisingly enjoy non-tech but social activities like playing board 
-          games, hangout with family | friends, or street photography. And chill out with some 
-          storytelling from books, movies, or videogames, as well.
+          games, hangout with family | friends, and street photography. And chill out with some 
+          storytelling from books, movies, and videogames, as well.
         </p>
         <p>
           <b>Happy coding!</b><br/>
