@@ -9,13 +9,15 @@
       <td colspan=4>
         <ul><b><i>TL;DR</i></b>
           <li>Software Developer [MAC]</li>
-          <li>C# / Python</li>
+          <li>Learning C# & Python</li>
+          <li>Looking for a project to contrib</li>
           <li>Working on my portfolio</li>
+          <li>I love coffee</li>
         </ul>
       </td>
       <td colspan=4>
         <p align="center">
-          <img src="https://raw.githubusercontent.com/alanxptm/alanxptm/main/img/press-button.gif" />
+          <img src="https://raw.githubusercontent.com/alanxptm/alanxptm/main/img/coffee-run.gif" />
         </p>
       </td>
     </tr>
@@ -23,31 +25,36 @@
       <td align="justify" colspan=8>
         <p>
           &nbsp;<br/>
-          <b>Storytime:</b>
+          <b>Storytime</b>
         </p>
         <p>
           My name is Alan, I am a software developer with a <b><i>Master's in Applied Computing</i></b>
           degree (grad. 2023).
         </p>
         <p>
-          I am aware of the importance of good design and efficient coding and how they 
-          relate to the performance and long-term maintainability of a project.
+          I know the importance of good design and efficient coding and how they relate 
+          to the performance and long-term maintainability of a project.
         </p>
         <p>
           I enjoy to constantly explore learning (through a diversity of sources and peers), 
           share my knowledge, and motivate others to keep improving their skills.
         </p>
         <p>
-          While my academic experience was coding mostly in <i>Java</i> and <i>Python</i>, my college's 
-          thesis project was done in <i>C#</i> (<a href="https://godotengine.org/">Godot Engine</a>)
-          and master's in <i>C++</i> (<a href="https://omnetpp.org/">OMNeT++</a>). 
-          Considering these, I would love to lead my career in <b><i>C#</i></b> and <b><i>Python</i></b>, with focus on 
-          Full-stack and Back-end development.
+          While my academic experience was coding mostly in <i>Java</i> and <i>Python</i>, 
+          my college's thesis project was done in <i>C#</i> (<a href="https://godotengine.org/" target="_blank">Godot Engine</a>)
+          and master's in <i>C++</i> (<a href="https://omnetpp.org/" target="_blank">OMNeT++</a>). 
+          Considering these, I would love to lead my career in <b><i>C#</i></b> | <b><i>Python</i></b>, 
+          with focus on <i>Full-stack</i> and <i>Back-end</i> development.
         </p>
         <p>
-          In my leisure time, I surprisingly enjoy non-tech but social activities (I know right) 
-          like playing board games, hangouts with family/friends, or street photography. 
-          And chill out with some storytelling from books, movies, or videogames, as well.
+          I care about becoming really good at my stack to offer real-life solutions. 
+          In the other hand, <b>soft-skills</b> like <i>communication</i>, <i>problem solving</i>, and <i>empathy</i> 
+          have been crucial in my personal and professional life.
+        </p>
+        <p>
+          In my leisure time, I surprisingly enjoy non-tech but social activities like playing board 
+          games, hangout with family | friends, or street photography. And chill out with some 
+          storytelling from books, movies, or videogames, as well.
         </p>
         <p>
           <b>Happy coding!</b><br/>
@@ -61,13 +68,13 @@
       <td align="center" colspan=3>Tool</td>
     </tr>
     <tr valign=middle>
-      <td width="75" height="75" align="center"><img height=36 wdth=36 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" title="C#" /></td>
+      <td width="75" height="75" align="center"><img height=36 wdth=36 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" title="CSharp" /></td>
       <td width="75" align="center"><img height=36 wdth=36 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" /></td>
       <td width="75" align="center"><img height=36 wdth=36 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML" /></td>
-      <td width="75" align="center"><img height=36 wdth=36 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" /></td>
+      <td width="75" align="center"><img height=36 wdth=36 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS" /></td>
       <td width="75" align="center"><img height=36 wdth=36 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="PostgreSQL" /></td>
-      <td width="75" align="center"><img height=36 wdth=36 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" title="Pycharm/Rider" /></td>
-      <td width="75" align="center"><img height=36 wdth=36 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VS Code" /></td>
+      <td width="75" align="center"><img height=36 wdth=36 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" title="Pycharm / Rider" /></td>
+      <td width="75" align="center"><img height=36 wdth=36 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VSCode" /></td>
       <td width="75" align="center"><img height=36 wdth=36 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker" /></td>
     </tr>
   </tbody>
@@ -84,7 +91,7 @@
 <details>
   <summary><b>Tools of the Trade</b></summary><br/>
   <ul>
-    <li><b>OS</b>: Win11 Pro / Linux-Manjaro <i>(when in need)</i></li>
+    <li><b>OS</b>: Win11 Pro / Linux[Manjaro] <i>(if needed)</i></li>
     <li><b>IDE</b>: Pycharm / Rider</li>
     <li><b>Editor</b>: VSCode</li>
     <li><b>Browser</b>: Firefox / Vivaldi</li>
@@ -93,7 +100,7 @@
 </details>
 
 <details>
-  <summary><b>Self Built Hardware + Accesories</b></summary><br/>
+  <summary><b>Custom Built Hardware + Accesories</b></summary><br/>
   <ul>
     <li><b>PC</b>: Ryzen7 / B550-PLUS / RTX3050 / 24GB RAM / .M2 + SSD + HDD</li>
     <li><b>Keyboard</b>: GK68X / Gateron Black Cherry / Switch Films + Pads / Evil Dolch (clone)</li>
@@ -102,3 +109,10 @@
     <li><b>Controller</b>: DualShock4 / SwitchPro / F500 Elite</li>
   </ul>
 </details>
+
+<details>
+  <summary><b>Disclaimer</b></summary><br/>
+  Image created by: <a href="https://mariannaraskin.com/" target="_blank">Marianna Raskin</a> and found in 
+  <a href="https://giphy.com/mariannaraskin/" target="_blank">Giphy</a>. If you like it, check out her work!
+</details>
+
