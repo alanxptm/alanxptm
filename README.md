@@ -27,7 +27,7 @@
         </p>
         <p>
           My name is Alan, I am a software developer with a <b><i>Master's in Applied Computing</i></b><br/>
-          degree from <i>LANIA</i> (grad. 2023).
+          degree (grad. 2023).
         </p>
         <p>
           I am aware of the importance of good design and efficient coding and how they<br/>
