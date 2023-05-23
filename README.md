@@ -26,7 +26,7 @@
           <b>Storytime:</b>
         </p>
         <p>
-          My name is Alan, I am a software developer with a <b><i>Master's in Applied Computing</i></b><br/>
+          My name is Alan, I am a software developer with a <b><i>Master's in Applied Computing</i></b>
           degree (grad. 2023).
         </p>
         <p>
