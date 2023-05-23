@@ -112,7 +112,11 @@
 
 <details>
   <summary><b>Disclaimer</b></summary><br/>
-  Image created by: <a href="https://mariannaraskin.com/" target="_blank">Marianna Raskin</a> and found in 
-  <a href="https://giphy.com/mariannaraskin/" target="_blank">Giphy</a>. If you like it, check out her work!
+  <ul>
+    <li>
+      Image created by <a href="https://mariannaraskin.com/" target="_blank">Marianna Raskin</a> and found on 
+      <a href="https://giphy.com/mariannaraskin/" target="_blank">Giphy</a>. If you like it, check out her work!
+    </li>
+  </ul>
 </details>
 
