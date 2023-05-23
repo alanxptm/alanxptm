@@ -61,14 +61,14 @@
       <td align="center" colspan=3>Tool</td>
     </tr>
     <tr valign=middle>
-      <td width="78" height="75" align="center"><img height=36 wdth=36 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" title="C#" /></td>
-      <td width="78" align="center"><img height=36 wdth=36 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" /></td>
-      <td width="78" align="center"><img height=36 wdth=36 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML" /></td>
-      <td width="78" align="center"><img height=36 wdth=36 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" /></td>
-      <td width="78" align="center"><img height=36 wdth=36 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="PostgreSQL" /></td>
-      <td width="78" align="center"><img height=36 wdth=36 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" title="Pycharm/Rider" /></td>
-      <td width="78" align="center"><img height=36 wdth=36 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VS Code" /></td>
-      <td width="78" align="center"><img height=36 wdth=36 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker" /></td>
+      <td width="75" height="75" align="center"><img height=36 wdth=36 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" title="C#" /></td>
+      <td width="75" align="center"><img height=36 wdth=36 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" /></td>
+      <td width="75" align="center"><img height=36 wdth=36 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML" /></td>
+      <td width="75" align="center"><img height=36 wdth=36 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" /></td>
+      <td width="75" align="center"><img height=36 wdth=36 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="PostgreSQL" /></td>
+      <td width="75" align="center"><img height=36 wdth=36 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" title="Pycharm/Rider" /></td>
+      <td width="75" align="center"><img height=36 wdth=36 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VS Code" /></td>
+      <td width="75" align="center"><img height=36 wdth=36 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker" /></td>
     </tr>
   </tbody>
 </table>
