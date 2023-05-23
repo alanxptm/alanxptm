@@ -15,7 +15,7 @@
       </td>
       <td colspan=4>
         <p align="center">
-          <img height=180px src="https://raw.githubusercontent.com/alanxptm/alanxptm/main/img/press-button.gif" />
+          <img src="https://raw.githubusercontent.com/alanxptm/alanxptm/main/img/press-button.gif" />
         </p>
       </td>
     </tr>
