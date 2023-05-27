@@ -3,10 +3,10 @@
 <table align="center" border="0">
   <tbody>
     <tr valign="middle">
-      <td height="80" align="center" colspan=8><b>Hello there!</b></td>
+      <td height="80" align="center" colspan=9><b>Hello there!</b></td>
     </tr>
     <tr valign=middle>
-      <td colspan=4>
+      <td colspan=5>
         <ul><b><i>TL;DR</i></b>
           <li>Software Developer [MAC]</li>
           <li>Learning C# & Python</li>
@@ -22,7 +22,7 @@
       </td>
     </tr>
     <tr>
-      <td align="justify" colspan=8>
+      <td align="justify" colspan=9>
         <p>
           &nbsp;<br/>
           <b>Storytime</b>
@@ -65,7 +65,7 @@
     <tr>
       <td align="center" colspan=4>Code</td>
       <td align="center">DB</td>
-      <td align="center" colspan=3>Tool</td>
+      <td align="center" colspan=4>Tool</td>
     </tr>
     <tr valign=middle>
       <td width="75" height="75" align="center"><img height=36 wdth=36 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" title="CSharp" /></td>
@@ -75,6 +75,7 @@
       <td width="75" align="center"><img height=36 wdth=36 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="PostgreSQL" /></td>
       <td width="75" align="center"><img height=36 wdth=36 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" title="Pycharm / Rider" /></td>
       <td width="75" align="center"><img height=36 wdth=36 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VSCode" /></td>
+      <td width="75" align="center"><img height=36 wdth=36 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" /></td>
       <td width="75" align="center"><img height=36 wdth=36 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker" /></td>
     </tr>
   </tbody>
