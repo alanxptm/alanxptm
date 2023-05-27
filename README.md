@@ -91,7 +91,7 @@
 <details>
   <summary><b>Tools of the Trade</b></summary><br/>
   <ul>
-    <li><b>OS</b>: Win11 Pro / Linux[Manjaro] <i>(if needed)</i></li>
+    <li><b>OS</b>: Win11 Pro / Linux[Manjaro] <i>[if needed]</i></li>
     <li><b>IDE</b>: Pycharm / Rider</li>
     <li><b>Editor</b>: VSCode</li>
     <li><b>Browser</b>: Firefox / Vivaldi</li>
@@ -103,7 +103,7 @@
   <summary><b>Custom Built Hardware + Accesories</b></summary><br/>
   <ul>
     <li><b>PC</b>: Ryzen7 / B550-PLUS / RTX3050 / 24GB RAM / .M2 + SSD + HDD</li>
-    <li><b>Keyboard</b>: GK68X / Gateron Black Cherry / Switch Films + Pads / Evil Dolch (clone)</li>
+    <li><b>Keyboard</b>: GK68X / Gateron Black / Switch Films + Pads / Evil Dolch [Cherry]</li>
     <li><b>Mouse</b>: Rival310</li>
     <li><b>Headset</b>: Arctis7</li>
     <li><b>Controller</b>: DualShock4 / SwitchPro / F500 Elite</li>
