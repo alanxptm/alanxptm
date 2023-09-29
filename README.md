@@ -43,7 +43,7 @@
           While my academic experience was coding mostly in <i>Java</i> and <i>Python</i>, 
           my college's thesis project was done in <i>C#</i> (<a href="https://godotengine.org/" target="_blank">Godot Engine</a>)
           and master's in <i>C++</i> (<a href="https://omnetpp.org/" target="_blank">OMNeT++</a>). 
-          Considering these, I would love to lead my career in <b><i>C#</i></b> | <b><i>Python</i></b>, 
+          Considering these, I would love to lead my career in <b><i>C#</i></b> and <b><i>Python</i></b>, 
           with focus on <i>Full-stack</i> and <i>Back-end</i> development.
         </p>
         <p>
@@ -53,7 +53,7 @@
         </p>
         <p>
           In my leisure time, I surprisingly enjoy non-tech but social activities like playing board 
-          games, hangout with family | friends, and street photography. And chill out with some 
+          games, hangout with family and friends, and street photography. And chill out with some 
           storytelling from books, movies, and videogames, as well.
         </p>
         <p>
