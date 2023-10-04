@@ -3,10 +3,10 @@
 <table align="center" border="0">
   <tbody>
     <tr valign="middle">
-      <td height="80" align="center" colspan=9><b>Hello there!</b></td>
+      <td height="80" align="center" colspan=10><b>Hello there!</b></td>
     </tr>
     <tr valign=middle>
-      <td colspan=5>
+      <td colspan=6>
         <ul><b><i>TL;DR</i></b>
           <li>Software Developer [MAC]</li>
           <li>Learning C# & Python</li>
@@ -22,7 +22,7 @@
       </td>
     </tr>
     <tr>
-      <td align="justify" colspan=9>
+      <td align="justify" colspan=10>
         <p>
           &nbsp;<br/>
           <b>Storytime</b>
@@ -63,12 +63,13 @@
       </td>
     </tr>
     <tr>
-      <td align="center" colspan=4>Code</td>
+      <td align="center" colspan=5>Code</td>
       <td align="center">DB</td>
       <td align="center" colspan=4>Tool</td>
     </tr>
     <tr valign=middle>
       <td width="75" height="75" align="center"><img height=36 wdth=36 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" title="CSharp" /></td>
+      <td width="75" height="75" align="center"><img height=36 wdth=36 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" /></td>
       <td width="75" align="center"><img height=36 wdth=36 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" /></td>
       <td width="75" align="center"><img height=36 wdth=36 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML" /></td>
       <td width="75" align="center"><img height=36 wdth=36 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS" /></td>
