@@ -70,37 +70,37 @@
     <tr valign=middle>
       <td width="80" height="80" align="center"><img height=36 wdth=36 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" title="CSharp" /></td>
       <td width="80" height="80" align="center"><img height=36 wdth=36 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" /></td>
-      <td width="80" height="80" align="center"><img height=36 wdth=36 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" /></td>
+      <td width="80" height="80" align="center"><img height=36 wdth=36 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" title="Spring" /></td>
       <td width="80" height="80" align="center"><img height=36 wdth=36 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" title="Oracle" /></td>
       <td width="80" height="80" align="center"><img height=36 wdth=36 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="PostgreSQL" /></td>
-      <td width="80" height="80" align="center"><img height=36 wdth=36 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" title="IntelliJ / Rider / PyCharm" /></td>
+      <td width="80" height="80" align="center"><img height=36 wdth=36 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" title="IntelliJ / Rider" /></td>
       <td width="80" height="80" align="center"><img height=36 wdth=36 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VSCode" /></td>
     </tr>
     <tr valign=middle>
       <td width="80" height="80" align="center"><img height=36 wdth=36 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML" /></td>
       <td width="80" height="80" align="center"><img height=36 wdth=36 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS" /></td>
       <td width="80" height="80" align="center" colspan=3></td>
-      <td width="80" height="80" align="center"><img height=36 wdth=36 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker" /></td>
+      <td width="80" height="80" align="center"><img height=36 wdth=36 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/podman/podman-original.svg" title="Podman" /></td>
       <td width="80" height="80" align="center"><img height=36 wdth=36 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" /></td>
     </tr>
   </tbody>
 </table>
 
-<details>
+<!--<details>
   <summary><b>Github Stats</b></summary><br/>
   <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alanxptm&layout=compact&theme=nord"/>
-    <!--<img src="https://github-readme-stats.vercel.app/api?username=alanxptm&show_icons=true&hide=stars,prs,issues,contribs&hide_title=true&theme=nord"/><br/>-->
+    <!--<img src="https://github-readme-stats.vercel.app/api?username=alanxptm&show_icons=true&hide=stars,prs,issues,contribs&hide_title=true&theme=nord"/><br/>
   </p>
-</details>
+</details>-->
 
 <details>
   <summary><b>Tools of the Trade</b></summary><br/>
   <ul>
-    <li><b>OS</b>: Win11 Pro / Linux[Manjaro] <i>(if needed)</i></li>
-    <li><b>IDE</b>: IntelliJ IDEA / Pycharm Community / Rider</li>
+    <li><b>OS</b>: Arch Linux</i></li>
+    <li><b>IDE</b>: IntelliJ IDEA / Rider</li>
     <li><b>Editor</b>: VSCode</li>
-    <li><b>Browser</b>: Firefox / Vivaldi</li>
+    <li><b>Browser</b>: Firefox</li>
     <li><b>Comms</b>: Discord</li>
   </ul>
 </details>
@@ -108,10 +108,10 @@
 <details>
   <summary><b>Custom Built Hardware + Accesories</b></summary><br/>
   <ul>
-    <li><b>PC</b>: Ryzen7 / B550-PLUS / RTX3050 / 32GB RAM / .M2 + SSD + HDD</li>
+    <li><b>PC</b>: Ryzen7 / B550-PLUS / RTX4070 / 32GB RAM</li>
     <li><b>Keyboard</b>: GK68x / Gateron Black / Switch Films + Pads / Evil Dolch (cherry)</li>
-    <li><b>Mouse</b>: Rival310</li>
-    <li><b>Headset</b>: Arctis7</li>
+    <li><b>Mouse</b>: CoolerMaster MM720</li>
+    <li><b>Headset</b>: Philips Fidelio X2HR + Vmoda BoomPro Mic</li>
     <li><b>Controller</b>: 8BitDo Ultimate / F500 Elite</li>
   </ul>
 </details>
