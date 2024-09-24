@@ -36,25 +36,26 @@
           to the performance and long-term maintainability of a project.
         </p>
         <p>
-          I enjoy to constantly explore learning, share my knowledge, and motivate others to keep improving 
-          their skills.
+          I enjoy to constantly explore learning, share my knowledge, and motivate others to keep 
+          improving their skills.
         </p>
         <p>
           While my academic experience was coding mostly in <i>Java</i> and <i>Python</i>, 
           my college's thesis project was done in <i>C#</i> 
-          (<a href="https://godotengine.org/" target="_blank">Godot Engine</a>) when I made a Procedural Content 
-          Generator module for the creation of 2D Levels, and master's in <i>C++</i> 
-          (<a href="https://omnetpp.org/" target="_blank">OMNeT++</a>) for the creation of a Communication Protocol 
-          in Causal Group for Hierarchical and Unreliable P2P Overlay Networks.
+          (<a href="https://godotengine.org/" target="_blank">Godot Engine</a>) when I made a 
+          Procedural Content Generator module for the creation of 2D Levels, and master's in 
+          <i>C++</i> (<a href="https://omnetpp.org/" target="_blank">OMNeT++</a>) for the creation of 
+          a Communication Protocol in Causal Group for Hierarchical and Unreliable P2P Overlay Networks.
         </p>
         <p>
-          Considering my experience, I would love to lead my career in programming (C# / Java) and keep exploring other
-          languages as I go, with focus on <i>Back-end</i> and Systems development.
+          Considering my experience, I would love to lead my career with focus on <i>Back-end</i> for 
+          web applications, <i>Algorithms</i> and <i>Systems development</i>, as I find them the most 
+          interesting topics in the field.
         </p>
         <p>
           I care about becoming really good at my stack to offer real-life solutions. 
-          In the other hand, <b>soft-skills</b> like <i>communication</i>, <i>problem solving</i>, and <i>empathy</i> 
-          have been crucial in my personal and professional life.
+          In the other hand, <b>soft-skills</b> like <i>communication</i>, <i>problem solving</i>, 
+          <i>teamwork</i> and <i>empathy</i> have been crucial in my personal and professional life.
         </p>
         <p>
           In my leisure time, I surprisingly enjoy non-tech but social activities like playing board 
