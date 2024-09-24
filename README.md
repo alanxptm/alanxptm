@@ -41,10 +41,15 @@
         </p>
         <p>
           While my academic experience was coding mostly in <i>Java</i> and <i>Python</i>, 
-          my college's thesis project was done in <i>C#</i> (<a href="https://godotengine.org/" target="_blank">Godot Engine</a>)
-          and master's in <i>C++</i> (<a href="https://omnetpp.org/" target="_blank">OMNeT++</a>). 
-          Considering my experience, I would love to lead my career in <b><i>C#</i></b> and keep exploring other
-          languages as I go, with focus on <i>Full-stack</i> and <i>Back-end</i> development.
+          my college's thesis project was done in <i>C#</i> 
+          (<a href="https://godotengine.org/" target="_blank">Godot Engine</a>) when I made a Procedural Content 
+          Generator module for the creation of 2D Levels, and master's in <i>C++</i> 
+          (<a href="https://omnetpp.org/" target="_blank">OMNeT++</a>) for the creation of a Communication Protocol 
+          in Causal Group for Hierarchical and Unreliable P2P Overlay Networks.
+        </p>
+        <p>
+          Considering my experience, I would love to lead my career in programming (C# / Java) and keep exploring other
+          languages as I go, with focus on <i>Back-end</i> and Systems development.
         </p>
         <p>
           I care about becoming really good at my stack to offer real-life solutions. 
@@ -53,7 +58,7 @@
         </p>
         <p>
           In my leisure time, I surprisingly enjoy non-tech but social activities like playing board 
-          games, hangout with family and friends, and street photography. And chill out with some 
+          games, to hangout with family and friends, and street photography. And chill out with some 
           storytelling from books, movies, and videogames, as well.
         </p>
         <p>
@@ -70,41 +75,32 @@
     <tr valign=middle>
       <td width="80" height="80" align="center"><img height=36 wdth=36 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" title="CSharp" /></td>
       <td width="80" height="80" align="center"><img height=36 wdth=36 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" /></td>
-      <td width="80" height="80" align="center"><img height=36 wdth=36 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" title="Spring" /></td>
+      <td width="80" height="80" align="center"><img height=36 wdth=36 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML" /></td>
       <td width="80" height="80" align="center"><img height=36 wdth=36 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" title="Oracle" /></td>
       <td width="80" height="80" align="center"><img height=36 wdth=36 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="PostgreSQL" /></td>
       <td width="80" height="80" align="center"><img height=36 wdth=36 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" title="IntelliJ / Rider" /></td>
-      <td width="80" height="80" align="center"><img height=36 wdth=36 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VSCode" /></td>
+      <td width="80" height="80" align="center"><img height=36 wdth=36 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VSCodium" /></td>
     </tr>
     <tr valign=middle>
-      <td width="80" height="80" align="center"><img height=36 wdth=36 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML" /></td>
+      <td width="80" height="80" align="center"></td>
+      <td width="80" height="80" align="center"><img height=36 wdth=36 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" title="Spring" /></td>
       <td width="80" height="80" align="center"><img height=36 wdth=36 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS" /></td>
-      <td width="80" height="80" align="center" colspan=3></td>
-      <td width="80" height="80" align="center"><img height=36 wdth=36 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/podman/podman-original.svg" title="Podman" /></td>
+      <td width="80" height="80" align="center" colspan=2></td>
       <td width="80" height="80" align="center"><img height=36 wdth=36 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" /></td>
+      <td width="80" height="80" align="center"><img height=36 wdth=36 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/podman/podman-original.svg" title="Podman" /></td>
     </tr>
   </tbody>
 </table>
-
-<!--<details>
-  <summary><b>Github Stats</b></summary><br/>
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alanxptm&layout=compact&theme=nord"/>
-    <!--<img src="https://github-readme-stats.vercel.app/api?username=alanxptm&show_icons=true&hide=stars,prs,issues,contribs&hide_title=true&theme=nord"/><br/>
-  </p>
-</details>-->
 
 <details>
   <summary><b>Tools of the Trade</b></summary><br/>
   <ul>
     <li><b>OS</b>: Arch Linux</i></li>
     <li><b>IDE</b>: IntelliJ IDEA / Rider</li>
-    <li><b>Editor</b>: VSCode</li>
-    <li><b>Browser</b>: Firefox</li>
+    <li><b>Editor</b>: VSCodium</li>
     <li><b>Comms</b>: Discord</li>
   </ul>
 </details>
-
 <details>
   <summary><b>Custom Built Hardware + Accesories</b></summary><br/>
   <ul>
@@ -115,7 +111,6 @@
     <li><b>Controller</b>: 8BitDo Ultimate / F500 Elite</li>
   </ul>
 </details>
-
 <details>
   <summary><b>Disclaimer</b></summary><br/>
   <ul>
@@ -125,4 +120,3 @@
     </li>
   </ul>
 </details>
-
