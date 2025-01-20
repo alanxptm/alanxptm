@@ -10,7 +10,6 @@
         <ul><b><i>TL;DR</i></b>
           <li>Software Developer [MAC]</li>
           <li>Always learning</li>
-          <li>Teaching 💜</li>
           <li>Looking for a project to contrib</li>
           <li>I love coffee</li>
         </ul>
