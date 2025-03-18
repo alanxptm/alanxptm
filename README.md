@@ -47,7 +47,7 @@
           a Communication Protocol in Causal Group for Hierarchical and Unreliable P2P Overlay Networks.
         </p>
         <p>
-          Considering my experience, I would love to lead my career with focus on <i>Back-end</i> for 
+          Considering my experience, I would love to lead my career with a focus on <i>Back-end</i> for 
           web applications, <i>Algorithms</i> and <i>Systems development</i>, as I find them the most 
           interesting topics in the field.
         </p>
@@ -57,8 +57,8 @@
           <i>teamwork</i> and <i>empathy</i> have been crucial in my personal and professional life.
         </p>
         <p>
-          In my leisure time, I surprisingly enjoy non-tech but social activities like playing board 
-          games, to hangout with family and friends, and street photography. And chill out with some 
+          In my leisure time, I enjoy non-tech but social activities like playing board games, 
+          to hangout with family and friends, and street photography. And chill out with some 
           storytelling from books, movies, and videogames, as well.
         </p>
         <p>
@@ -104,11 +104,11 @@
 <details>
   <summary><b>Custom Built Hardware + Accesories</b></summary><br/>
   <ul>
-    <li><b>PC</b>: Ryzen7 / B550-PLUS / RTX4070 / 32GB RAM</li>
-    <li><b>Keyboard</b>: GK68x / Gateron Black / Switch Films + Pads / Evil Dolch (cherry)</li>
+    <li><b>PC</b>: Ryzen7 / B650-PLUS / RTX4070 / 32GB RAM</li>
+    <li><b>Keyboard</b>: GK87pro / Akko Lavender / Switch Films + Pads / Taro (cherry)</li>
     <li><b>Mouse</b>: CoolerMaster MM720</li>
     <li><b>Headset</b>: Philips Fidelio X2HR + Vmoda BoomPro Mic</li>
-    <li><b>Controller</b>: 8BitDo Ultimate / F500 Elite</li>
+    <li><b>Controller</b>: 8BitDo Ultimate & Arcade Stick</li>
   </ul>
 </details>
 <details>
