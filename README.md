@@ -10,7 +10,6 @@
         <ul><b><i>TL;DR</i></b>
           <li>Software Developer [MAC]</li>
           <li>Always learning</li>
-          <li>Looking for a project to contrib</li>
           <li>I love coffee</li>
         </ul>
       </td>
@@ -28,7 +27,7 @@
         </p>
         <p>
           My name is Alan, I am a software developer with a <b><i>Master's in Applied Computing</i></b>
-          degree (grad. 2023).
+          degree.
         </p>
         <p>
           I know the importance of good design and efficient coding and how they relate 
@@ -39,17 +38,14 @@
           improving their skills.
         </p>
         <p>
-          While my academic experience was coding mostly in <i>Java</i> and <i>Python</i>, 
-          my college's thesis project was done in <i>C#</i> 
-          (<a href="https://godotengine.org/" target="_blank">Godot Engine</a>) when I made a 
-          Procedural Content Generator module for the creation of 2D Levels, and master's in 
-          <i>C++</i> (<a href="https://omnetpp.org/" target="_blank">OMNeT++</a>) for the creation of 
-          a Communication Protocol in Causal Group for Hierarchical and Unreliable P2P Overlay Networks.
+          I'm currently working as a Java Backend Developer. My daily tasks involve contracts (YAML), 
+          microservices (SpringBoot), store procedures (Oracle PL/SQL), webservices, and diagrams (Archi). 
+          After these, I use Gitlab for version control, run the project in Jenkins, and solve issues in Sonar.
         </p>
         <p>
-          Considering my experience, I would love to lead my career with a focus on <i>Back-end</i> for 
-          web applications, <i>Algorithms</i> and <i>Systems development</i>, as I find them the most 
-          interesting topics in the field.
+          Considering my experience, I love to work in <i>Back-end</i> for web applications, enjoy 
+          <i>Algorithms</i> and would like to learn about <i>Systems development</i>, as I find 
+          it the most interesting topic in the field.
         </p>
         <p>
           I care about becoming really good at my stack to offer real-life solutions. 
@@ -57,9 +53,8 @@
           <i>teamwork</i> and <i>empathy</i> have been crucial in my personal and professional life.
         </p>
         <p>
-          In my leisure time, I enjoy non-tech but social activities like playing board games, 
-          to hangout with family and friends, and street photography. And chill out with some 
-          storytelling from books, movies, and videogames, as well.
+          In my leisure time, I enjoy to hang out with my partner, play with our cats, meet friends, and 
+          usual entertainment traits.
         </p>
         <p>
           <b>Happy coding!</b><br/>
@@ -79,7 +74,7 @@
       <td width="80" height="80" align="center"><img height=36 wdth=36 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" title="Oracle" /></td>
       <td width="80" height="80" align="center"><img height=36 wdth=36 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="PostgreSQL" /></td>
       <td width="80" height="80" align="center"><img height=36 wdth=36 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" title="IntelliJ / Rider" /></td>
-      <td width="80" height="80" align="center"><img height=36 wdth=36 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VSCodium" /></td>
+      <td width="80" height="80" align="center"><img height=36 wdth=36 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VSCode" /></td>
     </tr>
     <tr valign=middle>
       <td width="80" height="80" align="center"></td>
@@ -97,7 +92,7 @@
   <ul>
     <li><b>OS</b>: Arch Linux</i></li>
     <li><b>IDE</b>: IntelliJ IDEA / Rider</li>
-    <li><b>Editor</b>: VSCodium</li>
+    <li><b>Editor</b>: VSCode</li>
     <li><b>Comms</b>: Discord</li>
   </ul>
 </details>
